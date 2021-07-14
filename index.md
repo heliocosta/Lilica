@@ -1,3 +1,3 @@
 ## Welcome to Lilica support page
 
-Contact lilicatrips@gmail.com.
+Contact [lilicatrips@gmail.com](mailto:lilicatrips@gmail.com).
